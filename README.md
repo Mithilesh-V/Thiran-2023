@@ -52,7 +52,8 @@
 **EVENT COORDINATES :**
 >>BARATH R (6374408323)
 >>KIRUPA S   (9345682794)
->   
+
+
 #### 4.  CODING HOUSE
 > Hey geeks!! Ready to walk into the coding house? Solve a puzzle to find the key to the next. If you win, you walk out. Lose and you get haunted. Have fun with games and coding… a coding house awaits you!!
 > 
@@ -66,7 +67,7 @@
 >**EVENT COORDINATES :**
 >>Krithika V (7373538590)
 >>Gomathi K (7904305028)
->   
+
 #### 5.  DATATHON
 >Data! A weave of a million stories! Every detail tells a saga. So roll up your sleeves to come up with a perfect blend of modeling, visualization and prediction to uncover the TALE that lies underneath! Join us in the DATATHON of THIRAN 2023.
 >
@@ -109,7 +110,7 @@
 >**EVENT COORDINATES :**
 >>BALA VIGNESH S M (8925225100)
 >>MATHUMITHA S R (8667421074)
->
+
 #### 8.  MATH PIRATES
 >Do you want to explore the high seas and improve your math skills !?... 
    Come join the math pirates crew, flaunt your quick wit and become the 
@@ -183,7 +184,7 @@
 >**EVENT COORDINATES :**
 >>RAMANATHAN M (8056856956)
 >>AKSHAIRAJ G (7339272345)
-> 
+
 #### 13.  STAR OF THIRAN
 >Winner?... Oh runner? then lace up for the finale. Showcase your skills and test your limits in this event to become the winner of winners and get titled as 'Star of Thiran'. Do take the chance to prove your ability and claim your place in the running history!
 >
@@ -211,7 +212,6 @@
 ---
 
 ### Contacts
-
   
    +91 7094055968 ( S. Aravindhan )
 
