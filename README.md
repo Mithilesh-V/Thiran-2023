@@ -1,12 +1,13 @@
 
-## About Thiran 2023
- 
--   An intra-collegiate technical event 
--   Hosts: the Computer Applications Association & the Computational Sciences Association
--   Dates: 7th March - 11th March
--   This year is the 16th Edition of Thiran
--   14 Events
--   Prize pool: Rs. 44,000
+## Vanakkam, Hello, Namashkar 
+
+'*The Computer Applications Association & The Computational Sciences Association*' proudly presents, 
+
+>*The 16th edition of **THIRAN***, our favourite intra-collegiate technical event. 
+
+-   Dates: **7th March - 11th March**
+-   No of events: **14**
+-   Prize pool: **Rs. 44,000**
 
 ---
 
@@ -107,7 +108,7 @@
 >
 >**NO. OF ROUNDS :** 2
 >
-> **VENUE** :SKAVA Lab.
+> **VENUE :** SKAVA Lab.
 >
 > **DURATION** :
 >> **Round 1 :** 1.5 hrs (Offline, Based on No. of registrations)
@@ -122,7 +123,7 @@
 ---
 
 #### 6.  TRIPLE-TROUBLE
->Have you ever felt a rush of excitement and intrigue while you chance upon puzzles? Here we are to delight you with witty troubles and tricky stumpers. Let your memory pave your path to the destination. Hop aboard as a traveller, unravel the treasure. Geeks unleash your fun part.
+>Have you ever felt a rush of excitement and intrigue while you chance upon puzzles? Here we are to delight you with witty troubles and tricky stumpers. Let your memory pave your path to the destination. Hop aboard as a traveller, unravel the treasure. Geeks unleash your fun part!
 >
 >**TEAM SIZE :** 2
 >
@@ -170,10 +171,7 @@
 ---
 
 #### 8.  MATH PIRATES
->Do you want to explore the high seas and improve your math skills !?... 
-   Come join the math pirates crew, flaunt your quick wit and become the 
-   ultimate math pirate…from addition to navigation, our quiz will set
-   you on a math adventure like no other!
+>Do you want to explore the high seas and improve your math skills !?... Come join the math pirates crew, flaunt your quick wit and become the ultimate math pirate from addition to navigation, our quiz will set you on a math adventure like no other!
 
 >**TEAM SIZE :** 2
 >
@@ -194,9 +192,7 @@
 ---
 
 #### 9.  INVENIER 
->Do you want to explore the high seas and improve your math skills !?... 
->Come join the math pirates crew, flaunt your quick wit and become the ultimate math pirate…from addition to navigation, our quiz will set
-   you on a math adventure like no other!
+>Invenirer is a thrilling and dynamic strategic problem-solving event that will put your skills and creativity to the test. Get ready to team up with a partner and embark on an exciting journey filled with obstacles and challenges. Whether you're a seasoned strategist or a newcomer to the game, Invenirer is the perfect way to challenge yourself and have fun with friends. We'll see you on the field!
 
 >**TEAM SIZE :** 2
 >
@@ -215,7 +211,7 @@
 ---
 
 #### 10.  COLLOQUOY
->Are you up for a group activity? Looking for an opportunity to showcase your communication abilities?  You'd want to see how well you can develop a team?. Come over and take part. Increase your capacity for adaptability and leadership with a strong team.
+>Are you up for a group activity? Looking for an opportunity to showcase your communication abilities? You'd want to see how well you can develop a team? Come over and take part. Increase your capacity for adaptability and leadership with a strong team.
 >
 >**TEAM SIZE :**
 >>**Round 1 :** Teams will be decided at the time of event.
@@ -239,7 +235,7 @@
 ---
 
 #### 11.  WITTY MINDS
->Are you a play-based learner? Are you a quick thinker? then this is the right platform to show case your talent. Grab your partner and show off your witty minds.
+>Are you a play-based learner? Are you a quick thinker? Then this is the right platform to show case your talent. Grab your partner and show off your witty minds.
 >
 >**TEAM SIZE :** 2
 >
@@ -284,7 +280,7 @@
 ---
 
 #### 13.  STAR OF THIRAN
->Winner?... Oh runner? then lace up for the finale. Showcase your skills and test your limits in this event to become the winner of winners and get titled as 'Star of Thiran'. Do take the chance to prove your ability and claim your place in the running history!
+>Winner?... Oh runner? Then lace up for the finale. Showcase your skills and test your limits in this event to become the winner of winners and get titled as 'Star of Thiran'. Do take the chance to prove your ability and claim your place in the running history!
 >
 >**TEAM SIZE :**
 >>**Round 1 :** 1
