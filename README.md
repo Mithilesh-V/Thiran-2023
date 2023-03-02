@@ -25,7 +25,7 @@
 >**DURATION :**
 >>**Round 1 :** 2 hrs
 >
->**EVENT COORDINATES :**
+>**EVENT COORDINATORS :**
 >> THIRUVENKATA KRISHNAN B (9944692114)
 >>
 >> SHRUTHI M (9655697655) 
@@ -49,7 +49,7 @@
 >>
 >> **FIFA -** 15 Minutes per match
 >
->**EVENT COORDINATES :**
+>**EVENT COORDINATORS :**
 >>NIRANJAN K (7598358623)
 >>
 >>SREENIVAS R (7598340364)
@@ -71,7 +71,7 @@
 >>
 >>**Round 2 :** 1.5 hrs
 >
->**EVENT COORDINATES :**
+>**EVENT COORDINATORS :**
 >>BARATH R (6374408323)
 >>
 >>KIRUPA S   (9345682794)
@@ -94,7 +94,7 @@
 >>
 >> **Round 2 :** 45 Minutes
 >
-> **EVENT COORDINATES :**
+> **EVENT COORDINATORS :**
 >>Krithika V (7373538590)
 >>
 >>Gomathi K (7904305028)
@@ -115,7 +115,7 @@
 >>
 >> **Round 2 :** 24 hrs (Online)
 >
-> **EVENT COORDINATES :**
+> **EVENT COORDINATORS :**
 >>NIKILA B (9952696225)
 >>
 >>HARIHARAN S (7339543452)
@@ -138,7 +138,7 @@
 >>
 >>**Round 3 :** 1.5 hrs
 >
->**EVENT COORDINATES :**
+>**EVENT COORDINATORS :**
 >>ABINAYA U (9940450903)
 >>
 >>SWATHI PRATHAA P (8838705357)
@@ -163,7 +163,7 @@
 >>
 >>**Round 2 (Finals) :** 2.5 hrs
 >
->**EVENT COORDINATES :**
+>**EVENT COORDINATORS :**
 >>BALA VIGNESH S M (8925225100)
 >>
 >>MATHUMITHA S R (8667421074)
@@ -184,14 +184,14 @@
 >>
 >>**Round 2 (Finals) :** 1.5 - 2 hrs
 >
->**EVENT COORDINATES :**
+>**EVENT COORDINATORS :**
 >>D LAVANYA (9487125406)
 >>
 >>VARUN RAM P  (9629095843)
 
 ---
 
-#### 9.  INVENIER 
+#### 9.  INVENIRER 
 >Invenirer is a thrilling and dynamic strategic problem-solving event that will put your skills and creativity to the test. Get ready to team up with a partner and embark on an exciting journey filled with obstacles and challenges. Whether you're a seasoned strategist or a newcomer to the game, Invenirer is the perfect way to challenge yourself and have fun with friends. We'll see you on the field!
 
 >**TEAM SIZE :** 2
@@ -203,14 +203,14 @@
 >**DURATION :**
 >>**Round 1 :** 1.5 hrs
 >
->**EVENT COORDINATES :**
+>**EVENT COORDINATORS :**
 >>AUGXY MOON S M (9489442574)
 >>
 >>PAVITHRAN R (7502712715)
 
 ---
 
-#### 10.  COLLOQUOY
+#### 10.  COLLOQUY
 >Are you up for a group activity? Looking for an opportunity to showcase your communication abilities? You'd want to see how well you can develop a team? Come over and take part. Increase your capacity for adaptability and leadership with a strong team.
 >
 >**TEAM SIZE :**
@@ -227,7 +227,7 @@
 >>
 >>**Round 2 :** 45 Minutes
 >
->**EVENT COORDINATES :**
+>**EVENT COORDINATORS :**
 >>PAVITHRA A (9360293328)
 >>
 >>SURABHI K (9150142050)
@@ -250,7 +250,7 @@
 >>
 >>**Round 3 :** 30 Minutes
 >
->**EVENT COORDINATES :**
+>**EVENT COORDINATORS :**
 >>ROSHINI E (9585657946)
 >>
 >>SUBASHINI R (9942552425)
@@ -272,7 +272,7 @@
 >>
 >>**Round 2 :** 1 hrs
 >
->**EVENT COORDINATES :**
+>**EVENT COORDINATORS :**
 >>RAMANATHAN M (8056856956)
 >>
 >>AKSHAIRAJ G (7339272345)
@@ -295,7 +295,7 @@
 >>**Round 1 :** 40 Minutes
 >>
 >>**Round 2 :** 1 hrs
->**EVENT COORDINATES :**
+>**EVENT COORDINATORS :**
 >>RAMANATHAN M (8056856956)
 >>
 >>AKSHAIRAJ G (7339272345)
@@ -309,7 +309,7 @@
 >
 >**MODE :** Online.
 >
->**EVENT COORDINATES :**
+>**EVENT COORDINATORS :**
 >>SANTHOSH KUMAR A (6381683077)
 >>
 >>VIKASH L B (8610698073)
