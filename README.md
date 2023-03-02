@@ -15,8 +15,8 @@
 
 #### 1. HACK-IN
 > Are you one of those fascinated by 'hacking' scenes in movies where your favorite character sneaks into the enemy's system? Then you are the right person for this mission. 
-A Saboteur is here to mess with Thiran and it is in your own hands to find his identity.
-HACK-IN to the arena of flags, why you ask? Well, aren't you gonna be our event savior - dare to find the cracks, hack it and Capture The Flags. The clock is already tickinggg !
+> A Saboteur is here to mess with Thiran and it is in your own hands to find his identity.
+> HACK-IN to the arena of flags, why you ask? Well, aren't you gonna be our event savior - dare to find the cracks, hack it and Capture The Flags. The clock is already tickinggg !
 
 > 
 >**TEAM SIZE :** 2 - 3
