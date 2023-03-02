@@ -3,7 +3,7 @@
 
 '*The Computer Applications Association & The Computational Sciences Association*' proudly presents, 
 
-*The 16th edition of **THIRAN***, our favourite intra-collegiate technical event. 
+>*The 16th edition of **THIRAN***, our favourite intra-collegiate technical event. 
 
 -   Dates: **7th March - 11th March**
 -   No of events: **14**
