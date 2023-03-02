@@ -14,7 +14,10 @@
 ## Events
 
 #### 1. HACK-IN
-> Are you one of those fascinated by 'hacking' scenes in movies? Do you want to see what exploiting real-life vulnerabilities in systems is like? Are you smart enough to outplay the system?! HACK-IN to the arena of flags. Dare to find the cracks, hack it and capture the Flags!
+> Are you one of those fascinated by 'hacking' scenes in movies where your favorite character sneaks into the enemy's system? Then you are the right person for this mission. 
+A Saboteur is here to mess with Thiran and it is in your own hands to find his identity.
+HACK-IN to the arena of flags, why you ask? Well, aren't you gonna be our event savior - dare to find the cracks, hack it and Capture The Flags. The clock is already tickinggg !
+
 > 
 >**TEAM SIZE :** 2 - 3
 >
@@ -258,7 +261,7 @@
 ---   
 
 #### 12.  THINKLYTICS
-> Here, we are bringing Thinklytics - a mind-blowing event to test your analytical skills. Take advantage of this event to improve your thinking and managing ability. Join hands to witness and compete with the best of best talents. Together let us grow a learning and sharing community. If you are a data abstractor, don't miss this golden opportunity!
+> Here, we are bringing Thinklytics - a mind-blowing event to test your analytical skills. Take advantage of this event to improve your thinking and managing ability. Join hands to witness and compete with the best of the best talents. Together let us grow a learning and sharing community. If you are a data abstractor, don't miss this golden opportunity!
 > 
 > **TEAM SIZE** :
 >>**Round 1** : 1
