@@ -1,6 +1,6 @@
 
 ## About Thiran 2023
-
+ 
 -   An intra-collegiate technical event 
 -   Hosts: the Computer Applications Association & the Computational Sciences Association
 -   Dates: 7th March - 11th March
